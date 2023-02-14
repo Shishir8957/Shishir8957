@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shishir8957
 - 👀 I’m interested in Coading
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on any c++ projects
+- 💞️ I’m looking to collaborate on any projects
 
 <!---
 Shishir8957/Shishir8957 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
