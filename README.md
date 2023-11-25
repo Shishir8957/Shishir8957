@@ -2,6 +2,7 @@
   -hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 - 👀 I’m interested in Coading
 - 💞️ I’m looking to collaborate on any projects
 <div id="header" align="center">
