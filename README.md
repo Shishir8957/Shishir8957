@@ -8,7 +8,7 @@
 - :telescope: I’m working as an undergraduate student and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
 - :zap: I solve problems on GeeksforGeeks and read tech articles in my free time.
-- :mailbox:How to reach me: <div id="badges" align="center">
+- :mailbox:How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/shishir-bastola-5b5787160/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
