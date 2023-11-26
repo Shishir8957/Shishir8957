@@ -12,7 +12,7 @@
   </a>
 </div>
 
-
+### :woman_technologist: About Me :
 -  I am a Full Stack Developer from Nepal 🇳🇵
 - :telescope: I’m working as an undergraduate student and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
