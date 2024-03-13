@@ -16,7 +16,6 @@
 -  I am a Full Stack Developer from Nepal 🇳🇵
 - :telescope: I’m working as an undergraduate student and contributing to frontend and backend for building web applications.
 - :seedling: Exploring Technical Content Writing.
-- :zap: I am currently working on my college major project "Protein Structure Prediction".
 - :mailbox: How to reach me: shishir.bastola8957@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
