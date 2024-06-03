@@ -15,7 +15,7 @@
 ### :woman_technologist: About Me :
 -  I am a Full Stack Developer from Nepal 🇳🇵
 - :telescope: I’m working as an undergraduate student and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Generative Ai.
+- :seedling: Exploring ML and AI.
 - :mailbox: How to reach me: shishir.bastola8957@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
